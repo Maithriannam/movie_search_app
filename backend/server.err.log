@@ -1,0 +1,625 @@
+Error registering user: error: column "name" of relation "users" does not exist
+    at C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async registerUser (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\controllers\authController.js:37:21) {
+  length: 122,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '20',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_target.c',
+  line: '1073',
+  routine: 'checkInsertTargets'
+}
+Error registering user: error: column "name" of relation "users" does not exist
+    at C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async registerUser (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\controllers\authController.js:37:21) {
+  length: 122,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '20',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_target.c',
+  line: '1073',
+  routine: 'checkInsertTargets'
+}
+Error fetching movie reviews: error: column u.name does not exist
+    at C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async getMovieReviews (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\controllers\reviewController.js:19:27) {
+  length: 104,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '48',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3827',
+  routine: 'errorMissingColumn'
+}
+Error fetching movie reviews: error: column u.name does not exist
+    at C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async getMovieReviews (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\controllers\reviewController.js:19:27) {
+  length: 104,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '48',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '3827',
+  routine: 'errorMissingColumn'
+}
+Error registering user: error: column "name" of relation "users" does not exist
+    at C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async registerUser (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\controllers\authController.js:37:21) {
+  length: 122,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '20',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_target.c',
+  line: '1073',
+  routine: 'checkInsertTargets'
+}
+Error registering user: error: column "name" of relation "users" does not exist
+    at C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async registerUser (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\controllers\authController.js:37:21) {
+  length: 122,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '20',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_target.c',
+  line: '1073',
+  routine: 'checkInsertTargets'
+}
+Error registering user: error: null value in column "full_name" of relation "users" violates not-null constraint
+    at C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async registerUser (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\controllers\authController.js:37:21) {
+  length: 453,
+  severity: 'ERROR',
+  code: '23502',
+  detail: 'Failing row contains (1, null, testuser99@test.com, null, null, null, null, 2026-06-13 19:00:37.40635, 2026-06-13 19:00:37.40635, , Test User, $2a$10$LKdmNrqg5gAYQ0eUu84rXOL4gS/GE4RNJD4IOZ47nif9pxfbL0ThS, https://api.dicebear.com/7.x/adventurer/svg?seed=Test%20User, ).',
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: 'public',
+  table: 'users',
+  column: 'full_name',
+  dataType: undefined,
+  constraint: undefined,
+  file: 'execMain.c',
+  line: '2219',
+  routine: 'ReportNotNullViolationError'
+}
+Error registering user: error: column "title" of relation "notifications" does not exist
+    at C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\node_modules\pg-pool\index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async registerUser (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\controllers\authController.js:45:5) {
+  length: 131,
+  severity: 'ERROR',
+  code: '42703',
+  detail: undefined,
+  hint: undefined,
+  position: '37',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_target.c',
+  line: '1073',
+  routine: 'checkInsertTargets'
+}
+C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\controllers\watchlistController.js:80
+  INSERT INTO watchlist
+         ^^^^
+
+SyntaxError: Unexpected identifier 'INTO'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:7:5)
+
+Node.js v24.12.0
+C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\node_modules\express\lib\router\route.js:216
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\node_modules\express\lib\router\route.js:216:15)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:13:4)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+
+Node.js v24.12.0
+C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\controllers\watchlistController.js:80
+  INSERT INTO watchlist
+         ^^^^
+
+SyntaxError: Unexpected identifier 'INTO'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:7:5)
+
+Node.js v24.12.0
+C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\node_modules\express\lib\router\route.js:216
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as get] (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\node_modules\express\lib\router\route.js:216:15)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:13:4)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+
+Node.js v24.12.0
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module '../controllers/watchlistController'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:7:5)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\routes\\watchlistRoutes.js',
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module '../controllers/watchlistController'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:7:5)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\routes\\watchlistRoutes.js',
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module '../controllers/watchlistController'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:7:5)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\routes\\watchlistRoutes.js',
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module './routes/watchlistRoutes'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js:29:25)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module './routes/watchlistRoutes'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js:29:25)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0
+(node:11176) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 exit listeners added to [Bus]. MaxListeners is 10. Use emitter.setMaxListeners() to increase limit
+(Use `node --trace-warnings ...` to show where the warning was created)
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module './routes/watchlistRoutes'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js:29:25)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module '../controllers/watchlistController'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:7:5)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\routes\\watchlistRoutes.js',
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0
+C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:5
+  addOrUpdateWatchlist,
+  ^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'addOrUpdateWatchlist'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js:29:25)
+
+Node.js v24.12.0
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module '../controllers/watchlistController'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:7:5)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\routes\\watchlistRoutes.js',
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0
+C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:5
+  addOrUpdateWatchlist,
+  ^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'addOrUpdateWatchlist'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js:29:25)
+
+Node.js v24.12.0
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module '../controllers/watchlistController'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:7:5)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\routes\\watchlistRoutes.js',
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module '../controllers/watchlistController'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:7:5)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\routes\\watchlistRoutes.js',
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module '../controllers/watchlistController'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:7:5)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\routes\\watchlistRoutes.js',
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0
+C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\routes\watchlistRoutes.js:5
+  addOrUpdateWatchlist,
+  ^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Unexpected identifier 'addOrUpdateWatchlist'
+    at wrapSafe (node:internal/modules/cjs/loader:1692:18)
+    at Module._compile (node:internal/modules/cjs/loader:1735:20)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js:29:25)
+
+Node.js v24.12.0
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module './routes/watchlistRoutes'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js:29:25)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0
+node:internal/modules/cjs/loader:1424
+  throw err;
+  ^
+
+Error: Cannot find module './routes/watchlistRoutes'
+Require stack:
+- C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1421:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1059:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1064:22)
+    at Module._load (node:internal/modules/cjs/loader:1227:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.require (node:internal/modules/cjs/loader:1504:12)
+    at require (node:internal/modules/helpers:152:16)
+    at Object.<anonymous> (C:\Users\annam\OneDrive\Documents\FINTECH AND DEEPTECH\movie_search\backend\server.js:29:25)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    'C:\\Users\\annam\\OneDrive\\Documents\\FINTECH AND DEEPTECH\\movie_search\\backend\\server.js'
+  ]
+}
+
+Node.js v24.12.0

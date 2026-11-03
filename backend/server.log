@@ -1,0 +1,245 @@
+
+> cineverse-api@1.0.0 dev
+> nodemon server.js
+
+[33m[nodemon] 3.1.14[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Seeding initial popular movies from OMDb...
+Popular movies seeding completed successfully.
+Database connected successfully
+Database connected successfully
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+Database connected successfully
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+Database connected successfully
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+Database connected successfully
+Database tables verified/created successfully
+CineVerse Express server is running on port 5000
+Movies table already has 18 records. Skipping seeder.
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+Database connected successfully
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
